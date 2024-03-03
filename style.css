@@ -636,6 +636,7 @@ main {
 
 .card-two {
   display: block;
+	margin-top:12px;
 }
 
 .card-user-info {
