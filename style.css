@@ -621,7 +621,8 @@ main {
 }
 
 .card-container {
-  display: flex;
+margin-top:10px;
+	display: flex;
   flex-direction: column;
   gap: 15px;
 }
