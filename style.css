@@ -792,7 +792,7 @@ main {
   }
 
   .right-content {
-    grid-template-rows: 4% 29% 36% 41%;
+    grid-template-rows: 4% 27% 36% 41%;
   }
 
   .card-two {
@@ -806,7 +806,7 @@ main {
 
 @media (max-width: 1050px) {
 	 .right-content {
-      grid-template-rows: 4% 29% 37% 40%;
+      grid-template-rows: 4% 27% 37% 40%;
   }
 }
 
