@@ -610,7 +610,7 @@ main {
 /* FRIEND ACTIVITIES  */
 
 .friends-activity {
-	margin-top:10px;
+	margin-top:20px;
   display: flex;
   flex-direction: column;
 }
